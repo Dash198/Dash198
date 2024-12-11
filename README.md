@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Dash198
-- 👀 I’m interested in developing simple software for now, but looking for game development soon!
-- 🌱 I’m currently learning C++. I also know Java!
-- 💞️ I’m looking to collaborate on not much lol
-- 📫 How to reach me? My discord tag is D🌟SH#4591. Feel free to contact me!
+- Hi, I'm Devansh!
+- I'm currently a CSE student at IIT Hyderabad!
+- I love coding, and game development!
+- Currently learning web development, AI/ML and DSA.. one step at a time!
 
 <!---
 Dash198/Dash198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
