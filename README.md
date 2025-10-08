@@ -1,9 +1,28 @@
-- Hi, I'm Devansh!
-- I'm currently a CSE student at IIT Hyderabad!
-- I love coding, and game development!
-- Currently learning web development, AI/ML and DSA.. one step at a time!
+# Hi there, I'm Devansh!
 
-<!---
-Dash198/Dash198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CSE Undergrad @ IITH | ML & RL Enthusiast | Gamer | Wrestling Fan
+
+---
+
+## About Me
+I'm passionate about machine learning, especially reinforcement learning. I love building AI agents, experimenting with algorithms, and exploring new tech. When I'm not coding, you’ll find me gaming.
+
+---
+
+## Tech & Tools
+- **Languages:** Python, C++, Java, OCaml
+- **ML/AI:** PyTorch, Gymnasium, Stable Baselines  
+- **Other Tools:** Git, Linux, Docker  
+
+---
+
+## Currently Learning
+- Advanced RL algorithms  
+- AI for games  
+- Deployment of ML models  
+
+---
+
+## Fun Fact
+- I try to teach AI to play like me in games :)
+
